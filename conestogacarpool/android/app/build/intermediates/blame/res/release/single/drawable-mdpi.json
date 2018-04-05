@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/src_assets_csmr_logo.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/src_assets_csmr_logo.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/src_assets_outlooklogovector.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/src_assets_outlooklogovector.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/src_assets_icons_profile.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/src_assets_icons_profile.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/node_modules_reactnavigation_src_views_assets_backiconmask.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_star.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_star.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_rocket.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_rocket.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_bell.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_bell.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/src_assets_icons_gender.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/src_assets_icons_gender.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_heart.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/node_modules_reactnativeelements_src_rating_images_heart.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    }
+]

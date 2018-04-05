@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/student/conestogacarpool/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/student/conestogacarpool/android/app/build/intermediates/exploded-aar/ConestogaCarpool/react-native-navigation/unspecified/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/exploded-aar/ConestogaCarpool/react-native-navigation/unspecified/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/student/conestogacarpool/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/student/conestogacarpool/android/app/build/intermediates/exploded-aar/ConestogaCarpool/react-native-navigation/unspecified/res/menu/stub.xml"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/exploded-aar/ConestogaCarpool/react-native-navigation/unspecified/res/menu/stub.xml"
+    }
+]

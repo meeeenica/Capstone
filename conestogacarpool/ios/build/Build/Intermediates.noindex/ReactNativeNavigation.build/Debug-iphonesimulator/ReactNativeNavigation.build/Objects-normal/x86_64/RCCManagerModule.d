@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCManagerModule.m \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCManagerModule.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCNavigationController.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCLightBox.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCTabBarController.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RCCNotification.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/Noochie/Documents/conestogacarpool/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/Noochie/Documents/conestogacarpool/node_modules/react-native-navigation/ios/RNNSwizzles.h

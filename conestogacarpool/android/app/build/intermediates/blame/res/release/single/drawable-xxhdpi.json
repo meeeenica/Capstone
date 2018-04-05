@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/monicabelo/conestogacarpool/android/app/build/intermediates/res/merged/release/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/monicabelo/conestogacarpool/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
+    }
+]
